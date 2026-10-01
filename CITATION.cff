@@ -1,0 +1,17 @@
+### `CITATION.cff`
+
+```yaml
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated paper."
+authors:
+  - family-names: Li
+    given-names: Minglin
+    affiliation: "Fuzhou University"
+    email: liminglin@fzu.edu.cn
+  - family-names: Lin
+    given-names: Shaoyan
+    affiliation: "Fuzhou University"
+title: "Code and data for: Transfer Singularities and Driver Folds Along Finite Motions of Topological Rotor Chains"
+version: v1.0.0
+date-released: 2026-10-01
+license: MIT
