@@ -1,6 +1,5 @@
 # Code and Data for
-# "Transfer Singularities and Driver Folds Along Finite Motions 
-#  of Topological Rotor Chains"
+# "Coordinate Singularities in a Class of Isostatic Rotor Chains: Transfer Events, Driver Folds, and Why the Motion Does Not Terminate"
 
 Minglin Li (corresponding author) and Shaoyan Lin  
 School of Mechanical Engineering and Automation  
