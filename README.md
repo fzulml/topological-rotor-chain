@@ -1,5 +1,5 @@
 # Code and Data for
-# "Coordinate Singularities in a Class of Isostatic Rotor Chains: Transfer Events, Driver Folds, and Why the Motion Does Not Terminate"
+# "Singular Events in Isostatic Rotor Chains: Transfer Events, Driver Folds, and the Non-Termination of Motion"
 
 Minglin Li (corresponding author) and Shaoyan Lin  
 School of Mechanical Engineering and Automation  
@@ -14,7 +14,7 @@ Contact: liminglin@fzu.edu.cn
 This repository contains the Python scripts and numerical data
 that support the findings in our manuscript on the geometric
 structure of finite-motion paths in topological rotor chains. The
-code generates all twelve main-text figures and reproduces the
+code generates all nineteen main-text figures and reproduces the
 parameter scan and arclength continuation data reported in the
 paper.
 
@@ -53,15 +53,23 @@ topological-rotor-chain/
 │   ├── figure3b.png
 │   ├── figure4a.png
 │   ├── figure4b.png
+│   ├── figure4c.png
+│   ├── figure4d.png
 │   ├── figure5a.png
 │   ├── figure5b.png
-│   ├── figure5c.png
-│   └── figure5d.png
+│   ├── figure6a.png
+│   ├── figure6b.png
+│   ├── figure6c.png
+│   ├── figure7a.png
+│   ├── figure7b.png
+│   ├── figure7c.png
+│   └── figure7d.png
 │
 ├── scripts/                   4 Python scripts
 │   ├── figure1.py             Generates Fig. 1(a)(b)
-│   ├── figure2_4_long_trace.py Generates Fig. 2-4 (6 panels)
-│   ├── figure5_param_scan.py  Generates Fig. 5 (4 panels)
+│   ├── figure2_4_long_trace.py Generates Fig. 2-4 (8 panels)
+│   ├── figure5_param_scan.py  Generates Fig. 5 (2 panels)
+│   ├── figure5_param_scan.py  Generates Fig. 5 (2 panels)
 │   └── cascade_data_full.py   Produces data/full_scan.csv
 │
 └── data/                      2 numerical data files
