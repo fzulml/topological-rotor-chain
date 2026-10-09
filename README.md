@@ -65,12 +65,13 @@ topological-rotor-chain/
 │   ├── figure7c.png
 │   └── figure7d.png
 │
-├── scripts/                   4 Python scripts
-│   ├── figure1.py             Generates Fig. 1(a)(b)
-│   ├── figure2_4_long_trace.py Generates Fig. 2-4 (8 panels)
-│   ├── figure5_param_scan.py  Generates Fig. 5 (2 panels)
-│   ├── figure5_param_scan.py  Generates Fig. 5 (2 panels)
-│   └── cascade_data_full.py   Produces data/full_scan.csv
+├── scripts/                       6 Python scripts
+│   ├── figure1.py                 Generates Fig. 1(a)(b)
+│   ├── figure2_3_5long_trace.py   Generates Fig. 2-3-5 (8 panels)
+│   ├── figure4_events.py          Generates Fig. 4 (4 panels)
+│   ├── figure6_configurations.py  Generates Fig. 5 (2 panels)
+│   ├── figure7_param_scan.py      Generates Fig. 5 (2 panels)
+│   └── cascade_data_full.py       Produces data/full_scan.csv
 │
 └── data/                      2 numerical data files
     ├── full_scan.csv          Parameter scan over (n, rho, theta_bar)
